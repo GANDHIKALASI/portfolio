@@ -1,11 +1,11 @@
-# AMAZINGPORTFOLIO
+this is my portfolio website 
  Each day presents an opportunity to explore new design concepts, master coding techniques, and unleash your creativity.
 Join Us
 Instagram - https://www.instagram.com/bug_gandhi?igsh=dXB4cTV2YWVvaTEz
 
 Telegram - https://t.me/BUG_GANDHI
 
-Facebook- https://www.facebook.com/GANDHIHACKER33
+
 
 GitHub-https://github.com/GANDHIKALASI
 
