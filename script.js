@@ -1,7 +1,13 @@
-var typed = new Typed(".text",{
-    strings:["Frontend Developer", "Python Developer", "Django Frameworke","Web Developer"],
-    typeSpeed : 10,
-    backSpeed : 100,
-    backDelay : 1000,
-    loop : true
+var typed = new Typed(".text", {
+    strings: [
+        "AI Agent Developer",
+        "Autonomous Systems Engineer",
+        "LLM & Multi-Agent Architect",
+        "AI & Data Analytics Specialist",
+        "Agentic Workflow Builder"
+    ],
+    typeSpeed: 60,
+    backSpeed: 40,
+    backDelay: 1200,
+    loop: true
 });
